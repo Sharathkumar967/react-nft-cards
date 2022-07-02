@@ -1,0 +1,19 @@
+.form__input input,
+.form__input textarea {
+  width: 100%;
+  padding: 7px 25px;
+  color: #fff;
+  font-size: 1rem;
+  background: transparent;
+  border: 1px solid rgba(221, 221, 221, 0.171);
+  outline: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.send__btn{
+    border: none;
+    padding: 7px 25px;
+    border-radius:5px ;
+    margin-top: 20px;
+}
